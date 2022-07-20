@@ -26,5 +26,5 @@ Then, open a new terminal window and type in:
 then
 | OS | Code |
 | ----------- | ----------- |
-| Windows | `C:/Users/<username>/PortalOSsystem/ > portalrunwin|
+| Windows | `C:/Users/<username>/PortalOSsystem/ > portalrunwin`|
 | Mac/Linux | `$ ./portalrunmaclinux`|
