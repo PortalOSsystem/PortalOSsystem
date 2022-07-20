@@ -27,4 +27,4 @@ then
 | OS | Code |
 | ----------- | ----------- |
 | Windows | `C:/Users/<username>/PortalOSsystem/ > portalrunwin|
-| Mac/Linux | `$ ./portalrunmaclinux|
+| Mac/Linux | `$ ./portalrunmaclinux`|
